@@ -1,0 +1,11 @@
+---
+layout: page
+title: Data Structure and Algorithm
+background: '/img/aipic.jpg'
+---
+<ul>
+    {% assign reverse_posts = site.categories.AI| reverse %}
+    {% for post in reverse_posts %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
