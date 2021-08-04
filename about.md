@@ -1,16 +1,30 @@
 ---
 layout: page
 title: About
-subtitle: Interested in Digital Finance Platforms
+subtitle: Interested in Digital Finance
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## <center>Kevin Hong (Seongtaek Hong)</center>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<center><img src = '/img/about.jpg' width="200"/></center>
 
-What else do you need?
+<br>
+<br>
+### About Me
 
-### My story
+My goal is to create **Next Generation Financial Platform**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am especially interested in **Deep Learning** and **Decentralized Financial Platform (DeFi)**
+
+In order to achieve this, I am currently attending to department of Computer Software Engineering in Hanyang University
+
+<br>
+### Languages
+`Python` `C/C++`
+
+<br>
+### Activities
+
+AI Study group, 미래연구소 (2021.07.10 ~ )
+
+IT Circle, KHLUG (2018.03.20 ~ 2020.02.12)
