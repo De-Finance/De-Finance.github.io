@@ -1,12 +1,10 @@
 ---
 layout: page
 title: About
-subtitle: Interested in Digital Finance
+subtitle: Kevin Hong (Seongtaek Hong)
 ---
 
-## <center>Kevin Hong (Seongtaek Hong)</center>
-
-<center><img src = '/img/about.jpg' width="200"/></center>
+<center><img src = '/img/phantom.png' width="200"/></center>
 
 <br>
 <br>
