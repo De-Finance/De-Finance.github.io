@@ -18,13 +18,14 @@ common-ext-js:
 common-googlefonts:
   - "Lora:400,700,400italic,700italic"
   - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
-  - "Nanum+Gothic"
+  - "Nanum+Gothic:400,300,600,700,800"
 common-js:
   - "/assets/js/beautifuljekyll.js"
 ---
 
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
 <!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
 {% include head.html %}
 

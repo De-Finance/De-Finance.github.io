@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Kevin Hong (Seongtaek Hong)
 ---
-
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
 <center><img src = '/img/phantom.png' width="200"/></center>
 
 <br>
