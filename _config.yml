@@ -133,6 +133,8 @@ footer-link-col: "#404040"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
+favicon: "/favicon.ico"
+
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
