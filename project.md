@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Project
+cover-img:
+  - "/img/tech1.jpg"
 ---
 
 ## Not Uploaded
