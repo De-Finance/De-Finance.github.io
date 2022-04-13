@@ -10,19 +10,27 @@ subtitle: Kevin Hong (Seongtaek Hong)
 <br>
 ### About Me
 
-My goal is to create **Next Generation Financial Platform**
+My goal is to become **Blockchain Developer**
 
-I am especially interested in **Deep Learning** and **Decentralized Financial Platform (DeFi)**
+I am especially interested in creating Dapp which uses **Decentralized Financial Platform (DeFi)**
 
-In order to achieve this, I am currently attending to department of Computer Software Engineering in Hanyang University
+I am also interested in converging AI into Blockchain based Applications
+
+I am currently attending to department of Computer Software Engineering in Hanyang University
 
 <br>
 ### Languages
 `Python` `C/C++`
 
+(Studying)
+
+`HTML/CSS` `Javascript` `Node.js` `Solidity` etc...
+
 <br>
 ### Activities
 
-AI Study group, 미래연구소 (2021.07.10 ~ )
+**Blockchain Study group, HY-BLOCK (2022.05 ~ )**
 
-IT Circle, KHLUG (2018.03.20 ~ 2020.02.12)
+AI Study group, 미래연구소 (2021.07. ~ 2021.11.)
+
+IT Circle, KHLUG (2018.03. ~ 2020.02.)
